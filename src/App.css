@@ -1,0 +1,22 @@
+
+.box-container
+{
+    background-color:rgb(160, 70, 160);
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: rgb(59, 59, 175);
+    color: black;
+    height:80px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h1{
+    padding-top: 15px;
+}
